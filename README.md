@@ -79,9 +79,7 @@ Our platform offers:
 
 ---
 
-## 👥 Team
-**Team ID:** 111  
-**Team Name:** **VU-HACKITECTS**  
+
 
 > _"Promoting sustainable travel and cultural harmony through technology – **Explore, Experience, Empower Jharkhand!**"_ ✨
 
@@ -223,10 +221,9 @@ We welcome contributions! Please follow these steps:
 5. Open a Pull Request
 
 
-## Team
-
+## 👥 Team
 **Team ID:** 111  
-**Team Name:** VU-HACKITECTS
+**Team Name:** **VU-HACKITECTS**  
 
 
 ## 📄 License
