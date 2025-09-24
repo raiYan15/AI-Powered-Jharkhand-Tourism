@@ -9,10 +9,10 @@ A Smart India Hackathon 2025 project by Team VU-HACKITECTS
 **Theme:** Travel and Tourism  
 **Category:** Software Solution  
 **Problem Statement ID:** 25032
-[![React](https://img.shields.io/badge/React-18.0+-blue.svg)](https://reactjs.org/)
+**[![React](https://img.shields.io/badge/React-18.0+-blue.svg)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue.svg)](https://www.typescriptlang.org/)
 [![Three.js](https://img.shields.io/badge/Three.js-AR/VR-green.svg)](https://threejs.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-06B6D4.svg)](https://tailwindcss.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-06B6D4.svg)](https://tailwindcss.com/)**
 
 An immersive AI-powered eco-cultural tourism platform showcasing the breathtaking destinations of Jharkhand with cutting-edge **360° Augmented Reality** and **Virtual Reality** experiences.
 
