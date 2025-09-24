@@ -1,0 +1,632 @@
+[
+    {
+      "id": "luguburu-ghantabari",
+      "name": "Luguburu Ghantabari",
+      "districtId": "bokaro",
+      "location": "Near TTPS Lalpania, Gomia Block, Bokaro",
+      "howToReach": {
+        "byAir": "Nearest airport is Ranchi Airport (~110 km).",
+        "byTrain": "Nearest railway station is Bokaro Steel City (~40 km), well-connected to major cities.",
+        "byRoad": "Accessible by road from Gomia (~16 km) via taxis or local buses."
+      },
+      "description": "A sacred tribal site at the foothills of Lugu Hill, known for its cultural and spiritual significance.",
+      "longDesc": "Luguburu Ghantabari is a revered site for the Santhal tribal community, located near the Lugu Hill series, the second-highest range in Jharkhand. Surrounded by the Damodar River and tributaries like Katail and Sadabahar, it hosts an annual gathering on Kartik Purnima, drawing devotees nationwide.",
+      "tourismType": ["cultural", "spiritual", "nature"],
+      "activities": ["Pilgrimage", "Nature Exploration", "Tribal Culture Study"],
+      "ticketInformation": "Entry is free.",
+      "bestTimeToVisit": "October to February, especially during Kartik Purnima.",
+      "managedBy": "Local Tribal Community and District Administration.",
+      "contact": {
+        "localHelpline": "06542-123456 (Bokaro Administration)",
+        "tourismOffice": "Bokaro Tourism Office: 06542-789012"
+      },
+      "mapUrl": "https://maps.google.com/?q=Luguburu+Ghantabari",
+      "frontImage": "/images/places/luguburu_ghantabari.jpeg",
+      "frontImagecredit": "Bokaro Tourism",
+      "photoGallery": [
+        {
+          "url": "/images/places/luguburu_1.jpeg",
+          "credit": "Bokaro Tourism"
+        },
+        {
+          "url": "/images/places/luguburu_2.jpeg",
+          "credit": "Bokaro Tourism"
+        }
+      ]
+    },
+    {
+      "id": "city-park",
+      "name": "City Park",
+      "districtId": "bokaro",
+      "location": "Sector 3, Bokaro Steel City",
+      "howToReach": {
+        "byAir": "Nearest airport is Ranchi Airport (~110 km).",
+        "byTrain": "Nearest railway station is Bokaro Steel City (~2 km).",
+        "byRoad": "Easily accessible by auto-rickshaws or taxis from city center (~2 km)."
+      },
+      "description": "A recreational park with an artificial lake and musical fountain, ideal for family outings.",
+      "longDesc": "City Park in Sector 3 is a popular spot featuring an artificial lake, three islands, and greenery. It offers boating and a musical fountain, making it a weekend favorite for picnics and relaxation amidst nearby dining options.",
+      "tourismType": ["recreation", "family"],
+      "activities": ["Boating", "Picnicking", "Relaxation", "Fountain Viewing"],
+      "ticketInformation": "Entry is free. Boating charges: ₹50-₹100 per person.",
+      "bestTimeToVisit": "October to March for pleasant weather.",
+      "managedBy": "Bokaro Steel Plant (SAIL).",
+      "contact": {
+        "localHelpline": "06542-123456",
+        "tourismOffice": "Bokaro Tourism Office: 06542-789012"
+      },
+      "mapUrl": "https://maps.google.com/?q=City+Park+Bokaro",
+      "frontImage": "/images/places/city_park.jpeg",
+      "frontImagecredit": "Bokaro Tourism",
+      "photoGallery": [
+        {
+          "url": "/images/places/city_park_1.jpeg",
+          "credit": "Bokaro Tourism"
+        },
+        {
+          "url": "/images/places/city_park_2.jpeg",
+          "credit": "Bokaro Tourism"
+        }
+      ]
+    },
+    {
+      "id": "jawaharlal-nehru-biological-park",
+      "name": "Jawaharlal Nehru Biological Park",
+      "districtId": "bokaro",
+      "location": "Bokaro Steel City",
+      "howToReach": {
+        "byAir": "Nearest airport is Ranchi Airport (~110 km).",
+        "byTrain": "Nearest railway station is Bokaro Steel City (~2 km).",
+        "byRoad": "Accessible by local transport from city center (~2 km)."
+      },
+      "description": "Jharkhand’s largest zoo with diverse wildlife and recreational facilities.",
+      "longDesc": "Established in 1980 and renovated in 1989, this zoological garden managed by Bokaro Steel Plant houses rare animals like white tigers and Asiatic lions. It features a toy train, boating, and extensive flora, making it a must-visit for wildlife enthusiasts.",
+      "tourismType": ["wildlife", "family"],
+      "activities": ["Wildlife Viewing", "Boating", "Toy Train Ride", "Picnicking"],
+      "ticketInformation": "Entry: ₹20-₹50. Additional charges for boating and train rides.",
+      "bestTimeToVisit": "November to February for comfortable weather.",
+      "managedBy": "Bokaro Steel Plant (SAIL).",
+      "contact": {
+        "localHelpline": "06542-123456",
+        "tourismOffice": "Bokaro Tourism Office: 06542-789012"
+      },
+      "mapUrl": "https://maps.google.com/?q=Jawaharlal+Nehru+Biological+Park+Bokaro",
+      "frontImage": "/images/places/jnb_park.jpeg",
+      "frontImagecredit": "Bokaro Tourism",
+      "photoGallery": [
+        {
+          "url": "/images/places/jnb_park_1.jpeg",
+          "credit": "Bokaro Tourism"
+        },
+        {
+          "url": "/images/places/jnb_park_2.jpeg",
+          "credit": "Bokaro Tourism"
+        }
+      ]
+    },
+    {
+      "id": "garga-dam",
+      "name": "Garga Dam",
+      "districtId": "bokaro",
+      "location": "Near Bokaro Railway Station, Bokaro",
+      "howToReach": {
+        "byAir": "Nearest airport is Ranchi Airport (~110 km).",
+        "byTrain": "Nearest railway station is Bokaro Steel City (~12 km).",
+        "byRoad": "Accessible via NH-23 by taxis or buses (~12 km from city center)."
+      },
+      "description": "A scenic dam on the Garga River, perfect for picnics and relaxation.",
+      "longDesc": "Built in the 1970s, Garga Dam supplies water to Bokaro Steel City and offers a serene environment with its reservoir and surrounding greenery, making it a popular spot for picnics and nature lovers.",
+      "tourismType": ["eco", "recreation"],
+      "activities": ["Picnicking", "Photography", "Nature Walks"],
+      "ticketInformation": "Entry is free.",
+      "bestTimeToVisit": "October to March for pleasant weather.",
+      "managedBy": "Jharkhand Irrigation Department.",
+      "contact": {
+        "localHelpline": "06542-123456",
+        "tourismOffice": "Bokaro Tourism Office: 06542-789012"
+      },
+      "mapUrl": "https://maps.google.com/?q=Garga+Dam+Bokaro",
+      "frontImage": "/images/places/garga_dam.jpeg",
+      "frontImagecredit": "Bokaro Tourism",
+      "photoGallery": [
+        {
+          "url": "/images/places/garga_dam_1.jpeg",
+          "credit": "Bokaro Tourism"
+        },
+        {
+          "url": "/images/places/garga_dam_2.jpeg",
+          "credit": "Bokaro Tourism"
+        }
+      ]
+    },
+    {
+      "id": "tenughat-dam",
+      "name": "Tenughat Dam",
+      "districtId": "bokaro",
+      "location": "Petarwar Block, Bokaro",
+      "howToReach": {
+        "byAir": "Nearest airport is Ranchi Airport (~130 km).",
+        "byTrain": "Nearest railway station is Bokaro Steel City (~40 km).",
+        "byRoad": "Accessible by road from Bokaro (~40 km) via taxis or buses."
+      },
+      "description": "A large dam on the Damodar River with stunning views and picnic spots.",
+      "longDesc": "Constructed in 1978 by the Damodar Valley Corporation, Tenughat Dam is known for its vast reservoir (30 sq km) and scenic beauty. It supports irrigation, water supply, and power generation, while offering a tranquil setting for visitors.",
+      "tourismType": ["eco", "recreation"],
+      "activities": ["Picnicking", "Photography", "Nature Viewing"],
+      "ticketInformation": "Entry is free.",
+      "bestTimeToVisit": "October to March for pleasant weather.",
+      "managedBy": "Damodar Valley Corporation (DVC).",
+      "contact": {
+        "localHelpline": "06542-123456",
+        "tourismOffice": "Bokaro Tourism Office: 06542-789012"
+      },
+      "mapUrl": "https://maps.google.com/?q=Tenughat+Dam+Petarwar",
+      "frontImage": "/images/places/tenughat_dam.jpeg",
+      "frontImagecredit": "Bokaro Tourism",
+      "photoGallery": [
+        {
+          "url": "/images/places/tenughat_dam_1.jpeg",
+          "credit": "Bokaro Tourism"
+        },
+        {
+          "url": "/images/places/tenughat_dam_2.jpeg",
+          "credit": "Bokaro Tourism"
+        }
+      ]
+    },
+    {
+      "id": "sita-fall",
+      "name": "Sita Fall",
+      "districtId": "bokaro",
+      "location": "Chas Block, Bokaro",
+      "howToReach": {
+        "byAir": "Nearest airport is Ranchi Airport (~110 km).",
+        "byTrain": "Nearest railway station is Bokaro Steel City (~25 km).",
+        "byRoad": "Accessible by road from Chas (~15 km) via taxis or local transport."
+      },
+      "description": "A picturesque waterfall on the Damodar River, ideal for nature lovers.",
+      "longDesc": "Sita Fall in Chas Block is a beautiful cascade on the Damodar River, especially vibrant during the monsoon. Surrounded by greenery, it’s a favored spot for picnics and enjoying nature’s tranquility.",
+      "tourismType": ["eco", "nature"],
+      "activities": ["Picnicking", "Photography", "Nature Walks"],
+      "ticketInformation": "Entry is free.",
+      "bestTimeToVisit": "July to October for full water flow.",
+      "managedBy": "District Administration.",
+      "contact": {
+        "localHelpline": "06542-123456",
+        "tourismOffice": "Bokaro Tourism Office: 06542-789012"
+      },
+      "mapUrl": "https://maps.google.com/?q=Sita+Fall+Chas",
+      "frontImage": "/images/places/sita_fall.jpeg",
+      "frontImagecredit": "Bokaro Tourism",
+      "photoGallery": [
+        {
+          "url": "/images/places/sita_fall_1.jpeg",
+          "credit": "Bokaro Tourism"
+        },
+        {
+          "url": "/images/places/sita_fall_2.jpeg",
+          "credit": "Bokaro Tourism"
+        }
+      ]
+    },
+    {
+      "id": "chechaka-dham",
+      "name": "Chechaka Dham (Chechakeshwar Dham)",
+      "districtId": "bokaro",
+      "location": "Bokaro District",
+      "howToReach": {
+        "byAir": "Nearest airport is Ranchi Airport (~110 km).",
+        "byTrain": "Nearest railway station is Bokaro Steel City (~20 km).",
+        "byRoad": "Accessible by road from Bokaro city via taxis or buses."
+      },
+      "description": "A revered Shiva temple known as Mini Baba Dham.",
+      "longDesc": "Chechaka Dham is a prominent Shiva temple in Bokaro, attracting Hindu devotees who believe their prayers are answered here. Known as 'Mini Baba Dham,' it holds significant spiritual importance in the region.",
+      "tourismType": ["spiritual", "cultural"],
+      "activities": ["Pilgrimage", "Prayer", "Cultural Exploration"],
+      "ticketInformation": "Entry is free. Donations accepted.",
+      "bestTimeToVisit": "February to March, especially during Mahashivratri.",
+      "managedBy": "Temple Trust and District Administration.",
+      "contact": {
+        "localHelpline": "06542-123456",
+        "tourismOffice": "Bokaro Tourism Office: 06542-789012"
+      },
+      "mapUrl": "https://maps.google.com/?q=Chechaka+Dham+Bokaro",
+      "frontImage": "/images/places/chechaka_dham.jpeg",
+      "frontImagecredit": "Bokaro Tourism",
+      "photoGallery": [
+        {
+          "url": "/images/places/chechaka_dham_1.jpeg",
+          "credit": "Bokaro Tourism"
+        },
+        {
+          "url": "/images/places/chechaka_dham_2.jpeg",
+          "credit": "Bokaro Tourism"
+        }
+      ]
+    },
+    {
+      "id": "konar-dam",
+      "name": "Konar Dam",
+      "districtId": "bokaro",
+      "location": "Bokaro District",
+      "howToReach": {
+        "byAir": "Nearest airport is Ranchi Airport (~120 km).",
+        "byTrain": "Nearest railway station is Bokaro Steel City (~30 km).",
+        "byRoad": "Accessible by road from Bokaro via taxis or buses (~30 km)."
+      },
+      "description": "A multipurpose dam with scenic surroundings, ideal for outings.",
+      "longDesc": "Built in the 1980s on the Konar River, this dam supports water supply, irrigation, flood control, and power generation. Its reservoir and picturesque setting make it a notable destination for visitors seeking natural beauty.",
+      "tourismType": ["eco", "recreation"],
+      "activities": ["Picnicking", "Photography", "Nature Viewing"],
+      "ticketInformation": "Entry is free.",
+      "bestTimeToVisit": "October to March for pleasant weather.",
+      "managedBy": "Damodar Valley Corporation (DVC).",
+      "contact": {
+        "localHelpline": "06542-123456",
+        "tourismOffice": "Bokaro Tourism Office: 06542-789012"
+      },
+      "mapUrl": "https://maps.google.com/?q=Konar+Dam+Bokaro",
+      "frontImage": "/images/places/konar_dam.jpeg",
+      "frontImagecredit": "Bokaro Tourism",
+      "photoGallery": [
+        {
+          "url": "/images/places/konar_dam_1.jpeg",
+          "credit": "Bokaro Tourism"
+        },
+        {
+          "url": "/images/places/konar_dam_2.jpeg",
+          "credit": "Bokaro Tourism"
+        }
+      ]
+    },
+  {
+    "id": "massanjore-dam",
+    "name": "Massanjore Dam",
+    "districtId": "dumka",
+    "location": "Massanjore, Dumka",
+    "howToReach": {
+      "byAir": "The nearest airport is Deoghar Airport (~80 km) or Ranchi Airport (~260 km).",
+      "byTrain": "Nearest railway station is Dumka (~35 km), connected to Jasidih and Bhagalpur.",
+      "byRoad": "Well connected by road from Dumka and nearby towns. Buses and taxis available."
+    },
+    "description": "A scenic dam surrounded by hills and forests, perfect for picnics and nature outings.",
+    "longDesc": "Massanjore Dam, also known as Canada Dam, is built on the Mayurakshi River. It's a popular tourist destination surrounded by hills, forests, and lush greenery. The dam also features boating facilities and scenic views, making it ideal for nature lovers and photographers.",
+    "tourismType": ["eco", "adventure"],
+    "activities": ["Boating", "Nature Walks", "Photography", "Bird Watching", "Picnicking"],
+    "ticketInformation": "Entry is free. Boating may have separate charges (₹50 to ₹100 per person).",
+    "bestTimeToVisit": "October to March, when the weather is pleasant and the reservoir is full.",
+    "managedBy": "Jharkhand Tourism Department and Irrigation Department.",
+    "contact": {
+      "localHelpline": "06534-123456",
+      "tourismOffice": "Dumka Tourism Office: 06534-789012"
+    },
+    "mapUrl": "https://maps.app.goo.gl/XjrxcvvXL71pumuf8",
+    "frontImage": "/images/places/324231134_183657027598723_50202459.jpeg",
+    "frontImagecredit": "360 Dumka",
+    "photoGallery": [
+  {
+    "url": "/images/places/324398053_742254547268227_65539706.jpeg",
+    "credit": "360 Dumka"
+  },
+  {
+    "url": "/images/places/473068744_1141821660683804_7924408.jpeg",
+    "credit": "360 Dumka"
+  },
+  {
+    "url": "/images/places/324432648_1144251842948900_5528320.jpeg",
+    "credit": "360 Dumka"
+  },
+  {
+    "url": "/images/places/324287464_213828114340394_27117408.jpeg",
+    "credit": "360 Dumka"
+  }
+]
+
+  },
+
+  {
+    "id": "baidyanath-temple",
+    "name": "Baba Baidyanath Dham",
+    "districtId": "deoghar",
+    "location": "Deoghar town",
+    "howToReach": {
+      "byAir": "Nearest airport is Deoghar Airport (~10 km), or Patna Airport (~250 km).",
+      "byTrain": "Deoghar Junction (DGHR) is well‑connected to major cities.",
+      "byRoad": "Frequent buses/taxis connect Deoghar to Ranchi, Patna, Kolkata etc."
+    },
+    "description": "One of India’s 12 Jyotirlingas and a major Shiva pilgrimage site.",
+    "longDesc": "Baba Baidyanath Dham is a sacred Shiva temple complex housing one of the twelve self‑manifested Jyotirlingas. It draws millions, especially during the Shravani Mela when Kanwariyas carry Ganga water over 100 km for ritual offering. :contentReference[oaicite:2]{index=2}",
+    "tourismType": ["religious", "pilgrimage"],
+    "activities": ["Darshan", "Festivals (Maha Shivaratri, Shravani Mela)", "Spiritual rituals"],
+    "ticketInformation": "Free entry.",
+    "bestTimeToVisit": "July–August (Shravani Mela) or Shivaratri.",
+    "managedBy": "Baba Baidyanath Temple Management Board",
+    "contact": {
+      "localHelpline": "babadham.org contact",
+      "tourismOffice": "Deoghar Tourism Office"
+    },
+    "mapUrl": "https://maps.app.goo.gl/zgRMK1z2PCBH7sSk7",
+    "frontImage": "https://incredibleindia.gov.in/assets/uploads/feature/baba-baidyanath-dham.jpg",
+    "frontImagecredit": "Incredible India",
+    "photoGallery": [
+      {
+        "url": "https://www.gettyimages.com/photos/997361860",
+        "credit": "Amitavo Chakraborty / Getty Images"
+      },
+      {
+        "url": "https://www.picxy.com/photo/1400331",
+        "credit": "Sushanta via Picxy"
+      },
+      {
+        "url": "https://fusion.werindia.com/incredible-india/baba-baidyanath-dham.jpg",
+        "credit": "As2046 via Wikimedia Commons (CC0)"
+      },
+      {
+        "url": "https://pilgrimagetour.in/blog/best-time-to-visit-baidyanath-dham.jpg",
+        "credit": "PilgrimageTour.in"
+      }
+    ]
+  },
+  {
+    "id": "naulakha-mandir",
+    "name": "Naulakha Mandir",
+    "districtId": "deoghar",
+    "location": "Karnibad, ~1.5 km from Baba Dham",
+    "howToReach": {
+      "byAir": "Via Deoghar Airport then taxi (~15 min).",
+      "byTrain": "From Deoghar Junction, local taxi or auto.",
+      "byRoad": "Accessible by local transport from central Deoghar."
+    },
+    "description": "Majestic Radha–Krishna temple built in 1940, resembling Belur Math.",
+    "longDesc": "Constructed by Rani Charushila at a cost of ₹9 lakhs, the 146 ft granite‑marble temple houses idols of Radha, Krishna, and Balananda Brahmachari. :contentReference[oaicite:3]{index=3}",
+    "tourismType": ["religious", "architectural"],
+    "activities": ["Temple darshan", "Photography", "Quiet reflection"],
+    "ticketInformation": "Free entry; check opening hours.",
+    "bestTimeToVisit": "October–March.",
+    "managedBy": "Local temple trust",
+    "contact": {
+      "localHelpline": "Deoghar temple trust",
+      "tourismOffice": "Deoghar Tourism Office"
+    },
+    "mapUrl": "https://maps.app.goo.gl/gf8fa4WDdtwAta7R9",
+    "frontImage": "https://incredibleindia.gov.in/assets/uploads/feature/naulakha-mandir.jpg",
+    "frontImagecredit": "Incredible India",
+    "photoGallery": [
+      {
+        "url": "https://incredibleindia.gov.in/assets/uploads/feature/naulakha-mandir-2.jpg",
+        "credit": "Incredible India"
+      },
+      {
+        "url": "https://tripadvisor.in/LocationPhotoDirectLink-g1893710-d4138778-i108155395-Naulakha_Mandir.jpg",
+        "credit": "Tripadvisor user photo"
+      },
+      {
+        "url": "https://picxy.com/photo/2582524",
+        "credit": "Shatiaz via Picxy"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Naulakha_temple,_Charitravana.jpg",
+        "credit": "Samvidhan via Wikimedia Commons (CC BY‑SA 4.0)"
+      }
+    ]
+  },
+  {
+    "id": "trikut-hill",
+    "name": "Trikut Hills (Trikut Pahar)",
+    "districtId": "deoghar",
+    "location": "Mohanpur Block, ~15 km from Deoghar",
+    "howToReach": {
+      "byAir": "Fly to Deoghar Airport then drive (~30 min).",
+      "byTrain": "Via Deoghar Junction + local taxi.",
+      "byRoad": "State roads available; ropeway non‑operational."
+    },
+    "description": "Three‑peaked hill from the Ramayana, offering trekking and views.",
+    "longDesc": "Rising to ~2,470 ft, Trikut hosts a temple on one peak. Ropeway closed since 2022; climbed via steps. Post‑monsoon waterfalls and scenic vistas. :contentReference[oaicite:4]{index=4}",
+    "tourismType": ["religious", "adventure", "nature"],
+    "activities": ["Trekking", "Pilgrimage", "Photography", "Nature walks"],
+    "ticketInformation": "Nominal parking fees; no ropeway tickets.",
+    "bestTimeToVisit": "October–March or Sept–Nov post-monsoon.",
+    "managedBy": "Jharkhand Tourism Dept.",
+    "contact": {
+      "localHelpline": "Mohanpur Block Office",
+      "tourismOffice": "Deoghar Tourism Office"
+    },
+    "mapUrl": "https://maps.app.goo.gl/3bUyv23KyzcSKwEHA",
+    "frontImage": "https://desh.tourism.gov.in/assets/uploads/trikut-pahar.jpg",
+    "frontImagecredit": "Desh Tourism",
+    "photoGallery": [
+      {
+        "url": "https://outlooktraveller.com/trikut1.jpg",
+        "credit": "Outlook Traveller"
+      },
+      {
+        "url": "https://tripadvisor.com/trikut2.jpg",
+        "credit": "Tripadvisor user"
+      },
+      {
+        "url": "https://wanderlog.com/trikut3.jpg",
+        "credit": "Wanderlog"
+      },
+      {
+        "url": "https://360deoghar.com/trikut4.jpg",
+        "credit": "360 Deoghar"
+      }
+    ]
+  },
+  {
+    "id": "nandan-pahar",
+    "name": "Nandan Pahar",
+    "districtId": "deoghar",
+    "location": "Edge of Deoghar town",
+    "howToReach": {
+      "byAir": "Accessible via Deoghar Airport + short drive.",
+      "byTrain": "Take taxi/auto from Deoghar Junction.",
+      "byRoad": "City roads connect directly; local autos available."
+    },
+    "description": "Scenic hill‑park with Nandi temple, boating & family rides.",
+    "longDesc": "Also called 'Hill of Happiness', Nandan Pahar offers an amusement park, paddle‑boat lake and panoramic views—ideal for family outings. :contentReference[oaicite:5]{index=5}",
+    "tourismType": ["family", "recreation"],
+    "activities": ["Boating", "Picnics", "Temple visits", "Photography", "Walks"],
+    "ticketInformation": "Entry & ride tickets applicable; boating charges vary.",
+    "bestTimeToVisit": "Cool months Oct–March.",
+    "managedBy": "Jharkhand Tourism Dept.",
+    "contact": {
+      "localHelpline": "Deoghar Tourism Office",
+      "tourismOffice": "Deoghar Tourism Office"
+    },
+    "mapUrl": "https://maps.app.goo.gl/Kasd4WWF7mAiDAua7",
+    "frontImage": "https://tripadvisor.com/nandan_pahar_front.jpg",
+    "frontImagecredit": "Tripadvisor",
+    "photoGallery": [
+      {
+        "url": "https://tripadvisor.com/nandan1.jpg",
+        "credit": "Tripadvisor user"
+      },
+      {
+        "url": "https://tourtravelworld.com/nandan2.jpg",
+        "credit": "TourTravelWorld"
+      },
+      {
+        "url": "https://deoghar.co/nandan3.jpg",
+        "credit": "deoghar.co"
+      },
+      {
+        "url": "https://360deoghar.com/nandan4.jpg",
+        "credit": "360 Deoghar"
+      }
+    ]
+  },
+
+  {
+    "id": "massanjore-eco-cottages",
+    "name": "Massanjore Eco Cottages",
+    "districtId": "dumka",
+    "location": "Massanjore, Dumka, Jharkhand",
+    "howToReach": {
+      "byAir": "Nearest airport is Deoghar Airport (~80 km) or Ranchi Airport (~260 km).",
+      "byTrain": "Nearest railway station is Dumka (~35 km), connected to Jasidih and Bhagalpur. Alternatively, Siuri Railway Station (~50 km) in West Bengal is accessible.",
+      "byRoad": "Well-connected by road from Dumka (~31 km), Siuri (~50 km), Tarapith (~70 km), and Deoghar (~98 km). Buses, taxis, and rental cars are available."
+    },
+    "description": "Eco-friendly wooden cottages overlooking Massanjore Dam, offering a sustainable retreat amidst nature.",
+    "longDesc": "Nestled on the scenic hills overlooking the Massanjore Dam (also known as Canada Dam) on the Mayurakshi River, the Massanjore Eco Cottages in Dumka, Jharkhand, represent a pioneering effort in sustainable tourism by the Dumka Forest Division and the Jharkhand Government. Inaugurated by Chief Minister Hemant Soren on January 25, 2025, this eco-friendly resort features 25 luxurious wooden cottages (10 premium and 15 deluxe) crafted from high-quality spruce, pine, and fir, designed to blend seamlessly with the surrounding hills and forests. The project, conceptualized and executed under IFS Satwik Vyas, emphasizes minimal environmental impact, preserving the natural terrain to avoid ecological disruptions. The cottages, built by Wood Barn India, combine Scandinavian luxury with Jharkhand’s tribal heritage, offering modern amenities like a gymnasium, cafeteria, and dedicated parking. Tourists can enjoy speed boating, trekking, and water sports, with plans for organized tours to enhance the experience. The resort’s serene setting, surrounded by the dam’s reservoir and lush greenery, provides a tranquil escape, making it a model for eco-tourism. By involving local communities in operations like guiding treks and managing boats, the project fosters economic empowerment while promoting environmental conservation. The Massanjore Eco Cottages showcase how tourism can thrive sustainably, attracting nature lovers and adventure seekers to Jharkhand’s unexplored landscapes.",
+    "tourismType": ["eco", "adventure", "sustainable"],
+    "activities": ["Nature Walks", "Photography", "Picnicking", "Stays"],
+    "ticketInformation": "Cottage rates vary by category (premium/deluxe). Contact Dumka Forest Division or booking platforms for pricing (approx. ₹2500-₹5000/night).",
+    "bestTimeToVisit": "October to March for pleasant weather and optimal dam views.",
+    "managedBy": "Dumka Forest Division, Department of Forest, Government of Jharkhand.",
+    "contact": {
+      "localHelpline": "06434-236046, 06434-236047 (Control Room Dumka)",
+      "tourismOffice": "8252893391 (Eco Cottage Reception)",
+      "policeOffice": "269033 (Masanjor OP)"
+    },
+    "mapUrl": "https://maps.app.goo.gl/placeholder",
+    "frontImage": "/images/places/DJI_0495-1536x2048.jpg",
+    "frontImagecredit": "Dumka Diary",
+    "photoGallery": [
+      {
+        "url": "/images/places/DJI_0483-1536x2048.jpg",
+        "credit": "Dumka Diary"
+      },
+      {
+        "url": "/images/places/470901929_17984672108784425_3926093529185024918_n.jpg",
+        "credit": "Unseen Dumka"
+      },
+      {
+        "url": "/images/places/Massanjore-eco-cottage-3-1536x2048.jpg",
+        "credit": "Dumka Diary"
+      },
+      {
+        "url": "/images/places/470916846_17906078529074137_673468690447083802_n.jpg",
+        "credit": "Gulshan Kumar"
+      },
+      {
+        "url": "/images/places/470900837_17906078592074137_7686557270892615929_n.jpg",
+        "credit": "Gulshan Kumar"
+      },
+      {
+        "url": "/images/places/Massanjore-eco-cottage-4-2048x1152.jpg",
+        "credit": "Dumka Diary"
+      },
+      {
+        "url": "/images/places/474887488_18018167366657386_4156117782780494604_n.jpg",
+        "credit": "Dumka Meri Jaan"
+      },
+      {
+        "url": "/images/places/474987088_18018167267657386_6714658288565879906_n.jpg",
+        "credit": "Dumka Meri Jaan"
+      },
+      {
+        "url": "/images/places/474973484_18018167339657386_6270777366513768460_n.jpg",
+        "credit": "Dumka Meri Jaan"
+      },
+      {
+        "url": "/images/places/475155976_18018167240657386_5720313854475238731_n.jpg",
+        "credit": "Dumka Meri Jaan"
+      }
+    ]
+  },
+    {
+  "id": "siramtoli-flyover",
+  "name": "Siramtoli Flyover",
+  "districtId": "ranchi",
+  "location": "Siramtoli Chowk, Near Ranchi Railway Station, Ranchi",
+  "howToReach": {
+    "byAir": "Nearest airport is Birsa Munda Airport, Ranchi (~6 km).",
+    "byTrain": "Located adjacent to Ranchi Junction Railway Station, one of the main stations in Jharkhand.",
+    "byRoad": "Easily accessible via local buses, autos, and cabs from any part of Ranchi."
+  },
+  "description": "A modern flyover improving traffic movement in the heart of Ranchi city.",
+  "longDesc": "The Siramtoli Flyover is a key urban infrastructure project in Ranchi, designed to ease congestion around the Ranchi Railway Station and Siramtoli Chowk. Strategically built to streamline city traffic and reduce travel time, it offers improved connectivity between key city points like Kantatoli and Main Road. The flyover is not only an engineering achievement but also enhances the urban landscape of Ranchi.",
+  "tourismType": ["urban", "infrastructure"],
+  "activities": ["City Exploration", "Photography", "Urban Development Study"],
+  "ticketInformation": "Open to public use; no entry ticket required.",
+  "bestTimeToVisit": "Year-round, especially during early morning or evening for photography.",
+  "managedBy": "Ranchi Municipal Corporation and Jharkhand Urban Infrastructure Department.",
+  "contact": {
+    "localHelpline": "0651-2200000 (Ranchi Municipal Corporation)",
+    "tourismOffice": "Ranchi Tourism Office: 0651-2301120"
+  },
+  "mapUrl": "https://maps.google.com/?q=Siramtoli+Flyover+Ranchi",
+  "frontImage": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1G9e2N.img",
+  "frontImagecredit": "PTI",
+  "photoGallery": [
+    {
+      "url": "https://images.pexels.com/photos/32627623/pexels-photo-32627623.jpeg",
+      "credit": "Sahil Hansda"
+    },
+    {
+      "url": "https://etvbharatimages.akamaized.net/etvbharat/prod-images/05-06-2025/jh-ran-01-cm-program-7209874_05062025160650_0506f_1749119810_339.jpg?",
+      "credit": "ETV Bharat"
+    }
+  ]
+},
+
+  {
+    "id": "malooti-temples",
+    "name": "Malooti Temples",
+    "districtId": "dumka",
+    "location": "Shikaripara, Dumka",
+    "howToReach": {
+      "byAir": "Deoghar Airport (~90 km) or Ranchi (~270 km).",
+      "byTrain": "Nearest railway station is Dumka (~50 km).",
+      "byRoad": "Reachable by road via Dumka. Taxis and autos available."
+    },
+    "description": "A heritage site with terracotta temples showcasing unique Bengal-style architecture.",
+    "longDesc": "Malooti, a small village near Shikaripara in Dumka, houses over 100 terracotta temples built in the 17th century. These temples depict scenes from epics like Ramayana and Mahabharata and are made using ancient terracotta techniques.",
+    "tourismType": ["heritage", "spiritual"],
+    "activities": ["Temple Visit", "Photography", "Cultural Exploration"],
+    "ticketInformation": "Free entry.",
+    "bestTimeToVisit": "November to February, for pleasant weather and cultural festivals.",
+    "managedBy": "Jharkhand Tourism and Archaeological Survey of India (ASI).",
+    "contact": {
+      "localHelpline": "06534-654321",
+      "tourismOffice": "Dumka Tourism Office: 06534-789012"
+    },
+    "mapUrl": "https://maps.google.com/?q=Malooti+Temples",
+    "frontImage": "https://example.com/malooti-cover.jpg",
+    "photoGallery": [
+      "https://example.com/malooti1.jpg",
+      "https://example.com/malooti2.jpg"
+    ]
+  }
+]

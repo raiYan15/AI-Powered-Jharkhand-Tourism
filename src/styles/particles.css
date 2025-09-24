@@ -1,0 +1,75 @@
+.floating-leaves {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: 0;
+    overflow: hidden;
+  }
+  
+  .floating-leaves span {
+    position: absolute;
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    background-image: url('../assets/images/leaves.png'); /* ✅ Make sure this path is correct */
+    background-size: cover;
+    opacity: 0.08;
+    animation: fall linear infinite, sway 3s ease-in-out infinite, spinLeaf 8s linear infinite;
+    will-change: transform;
+  }
+  
+  /* Animations */
+  @keyframes fall {
+    0% {
+      transform: translateY(-10%) translateX(0);
+      opacity: 0.1;
+    }
+    100% {
+      transform: translateY(110vh) translateX(100px);
+      opacity: 0.05;
+    }
+  }
+  
+  @keyframes sway {
+    0%, 100% {
+      transform: translateX(0);
+    }
+    50% {
+      transform: translateX(10px);
+    }
+  }
+  
+  @keyframes spinLeaf {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+  
+  
+  
+  .orbit-lines {
+    background: radial-gradient(circle, transparent 30%, rgba(60,168,115,0.2) 31%, transparent 32%),
+                radial-gradient(circle, transparent 45%, rgba(60,168,115,0.15) 46%, transparent 47%);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 80% 80%;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    opacity: 0.2;
+  }
+
+  
+  @keyframes slowSpin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+  }
+  
+  .animate-slow-spin {
+    animation: slowSpin 120s linear infinite;
+  }
+  

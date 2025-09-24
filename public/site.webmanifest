@@ -1,0 +1,21 @@
+{
+  "name": "Jharkhand Tourism Guide",
+  "short_name": "JharkhandTourism",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fcd9b8",
+  "theme_color": "#fcd9b8",
+  "description": "Explore Jharkhand's beautiful districts, tourist places, helplines and travel info in one place.",
+  "icons": [
+    {
+      "src": "/favicon/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

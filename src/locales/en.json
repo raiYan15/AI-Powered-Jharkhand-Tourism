@@ -1,0 +1,9 @@
+{
+  "chatbot": {
+    "greeting": "🌳 Hello! I'm JharkhandConnect, your AI guide. How can I help you plan your trip today?",
+    "assistantTitle": "JharkhandConnect AI Assistant",
+    "placeholder": "Ask about destinations, food, culture...",
+    "send": "Send",
+    "error": "Sorry, I'm having trouble connecting. Please try again."
+  }
+}

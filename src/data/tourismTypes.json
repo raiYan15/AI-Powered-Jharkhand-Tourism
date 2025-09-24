@@ -1,0 +1,39 @@
+[
+    {
+      "id": "eco",
+      "name": "Eco Tourism",
+      "description": "Explore forests, waterfalls, and scenic nature spots.",
+      "icon": "🌲"
+    },
+    {
+      "id": "spiritual",
+      "name": "Spiritual Tourism",
+      "description": "Temples, religious places, and pilgrimage spots.",
+      "icon": "🛕"
+    },
+    {
+      "id": "heritage",
+      "name": "Heritage & Culture",
+      "description": "Tribal heritage, historical sites, and ancient temples.",
+      "icon": "🏛️"
+    },
+    {
+      "id": "adventure",
+      "name": "Adventure",
+      "description": "Hiking, trekking, and exploring offbeat tracks.",
+      "icon": "⛰️"
+    },
+    {
+      "id": "museum",
+      "name": "Museums",
+      "description": "Local museums showcasing history and tribal art.",
+      "icon": "🏺"
+    },
+    {
+      "id": "art",
+      "name": "Art & Handicraft",
+      "description": "Discover unique Jharkhandi crafts and traditional arts.",
+      "icon": "🎨"
+    }
+  ]
+  
