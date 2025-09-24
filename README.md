@@ -1,5 +1,14 @@
-# 🏞️ Jharkhand Tourism - 360° AR Experience
+# AI-Powered Jharkhand Tourism Plus
 
+A Smart India Hackathon 2025 project by Team VU-HACKITECTS
+
+## Problem Statement
+
+**Title:** Development of a Smart Digital Platform to Promote Eco Cultural Tourism in Jharkhand
+
+**Theme:** Travel and Tourism  
+**Category:** Software Solution  
+**Problem Statement ID:** 25032
 [![React](https://img.shields.io/badge/React-18.0+-blue.svg)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue.svg)](https://www.typescriptlang.org/)
 [![Three.js](https://img.shields.io/badge/Three.js-AR/VR-green.svg)](https://threejs.org/)
