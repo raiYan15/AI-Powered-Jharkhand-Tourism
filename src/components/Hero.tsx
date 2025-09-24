@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import logo from '../assets/images/jharkhand-tourism-logo-new.png';
+// Use public folder path for deployment compatibility
+const logo = '/images/jharkhand-tourism-logo-new.png';
 import '../assets/styles/index.css';
 
 const logos = [

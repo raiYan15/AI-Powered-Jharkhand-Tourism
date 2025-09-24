@@ -248,7 +248,7 @@ export default function PanoramicViewer({
   const [startTime] = useState(Date.now());
   const [isFullscreen, setIsFullscreen] = useState(false);
   const [cameraPosition, setCameraPosition] = useState<[number, number, number]>([0, 0, 0.1]);
-  const controlsRef = useRef<any>();
+  const controlsRef = useRef<any>(null);
 
   // Generate default hotspots if none provided
   const defaultHotspots: PanoramicHotspot[] = [

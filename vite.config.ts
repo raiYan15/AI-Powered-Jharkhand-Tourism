@@ -4,6 +4,7 @@ import path from "path";
 
 export default defineConfig({
   plugins: [react()],
+  base: "/AI-Powered-Jharkhand-Tourism/",
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),
@@ -11,6 +12,15 @@ export default defineConfig({
   },
   build: {
     outDir: "dist",
+    rollupOptions: {
+      output: {
+        manualChunks: {
+          'three': ['three'],
+          'react-three': ['@react-three/fiber', '@react-three/drei'],
+          'vendor': ['react', 'react-dom', 'react-router-dom'],
+        },
+      },
+    },
   },
   css: {
     devSourcemap: true,

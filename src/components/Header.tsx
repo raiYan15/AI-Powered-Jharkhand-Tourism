@@ -1,7 +1,8 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import { Menu, X } from "lucide-react";
-import logo from '../assets/images/jharkhand-tourism-logo-new.png';
+// Use public folder path for deployment
+const logo = '/images/jharkhand-tourism-logo-new.png';
 
 const Header = () => {
   const [aboutOpen, setAboutOpen] = useState(false);
