@@ -1,5 +1,5 @@
-# Dependencies
-node_modules/
+# Dependencies (node_modules included in repository)
+# node_modules/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
@@ -102,3 +102,4 @@ temp/
 *.njsproj
 *.sln
 *.sw?
+node_modules
