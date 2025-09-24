@@ -27,6 +27,15 @@ The state boasts **lush forests**, **majestic waterfalls**, and culturally signi
 Despite its immense potential, the region faces challenges in **digital engagement** and **traveler awareness**.  
 This project bridges that gap with an **innovative, AI-enhanced tourism platform**.
 
+
+---
+## 🚀 Live Demo
+
+Check out the live version of the app here:  
+👉 **[AI-Powered Jharkhand Tourism Demo](https://25032ai-powered-jharkhand-tour.netlify.app/)**
+
+*(Hosted on Netlify)*  
+
 ---
 
 ## 💡 Proposed Solution
