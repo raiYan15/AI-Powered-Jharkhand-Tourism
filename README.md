@@ -1,18 +1,23 @@
-# AI-Powered Jharkhand Tourism Plus
+# AI-Powered Jharkhand Tourism Plus  
+*A Smart India Hackathon 2025 project by Team VU-HACKITECTS*
 
-A Smart India Hackathon 2025 project by Team VU-HACKITECTS
+---
 
 ## Problem Statement
 
-**Title:** Development of a Smart Digital Platform to Promote Eco Cultural Tourism in Jharkhand
-
+**Title:** Development of a Smart Digital Platform to Promote Eco-Cultural Tourism in Jharkhand  
 **Theme:** Travel and Tourism  
 **Category:** Software Solution  
-**Problem Statement ID:** 25032
-**[![React](https://img.shields.io/badge/React-18.0+-blue.svg)](https://reactjs.org/)**
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue.svg)](https://www.typescriptlang.org/)
-[![Three.js](https://img.shields.io/badge/Three.js-AR/VR-green.svg)](https://threejs.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-06B6D4.svg)](https://tailwindcss.com/)**
+**Problem Statement ID:** 25032  
+
+---
+
+## Tech Stack  
+[![React](https://img.shields.io/badge/React-18.0%2B-blue.svg)](https://reactjs.org/)  
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0%2B-blue.svg)](https://www.typescriptlang.org/)  
+[![Three.js](https://img.shields.io/badge/Three.js-AR%2FVR-green.svg)](https://threejs.org/)  
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0.6B6D4.svg?logo=tailwindcss)](https://tailwindcss.com/)
+
 
 An immersive AI-powered eco-cultural tourism platform showcasing the breathtaking destinations of Jharkhand with cutting-edge **360° Augmented Reality** and **Virtual Reality** experiences.
 
@@ -41,13 +46,6 @@ An immersive AI-powered eco-cultural tourism platform showcasing the breathtakin
 - React Router
 - JSON-based dynamic content
 
-## 📂 Folder Structure
-
-src/ ├── components/ // Header, Footer, etc. ├── data/ // districts.json, places.json ├── pages/ // Home, Districts, DistrictDetail, etc. ├── App.jsx └── main.jsx
-
-perl
-Copy
-Edit
 ## References
 
 - [Jharkhand Tourism Official Portal](https://tourism.jharkhand.gov.in/historic-jharkhand)
