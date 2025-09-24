@@ -16,7 +16,7 @@
 [![React](https://img.shields.io/badge/React-18.0%2B-blue.svg)](https://reactjs.org/)  
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0%2B-blue.svg)](https://www.typescriptlang.org/)  
 [![Three.js](https://img.shields.io/badge/Three.js-AR%2FVR-green.svg)](https://threejs.org/)  
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0.6B6D4.svg?logo=tailwindcss)](https://tailwindcss.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-06B6D4.svg)](https://tailwindcss.com/)
 
 
 An immersive AI-powered eco-cultural tourism platform showcasing the breathtaking destinations of Jharkhand with cutting-edge **360° Augmented Reality** and **Virtual Reality** experiences.
